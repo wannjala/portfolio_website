@@ -19,7 +19,7 @@ $(document).ready(function () {
 
   // typing text animation script
   var typed = new Typed(".typing", {
-    strings: ["Data Analyst", "Developer", "Content Writer", "Freelancer"],
+    strings: ["Data Analyst", "Data Engineer", "Content Writer", "Content Marketer"],
     typeSpeed: 100,
     backSpeed: 60,
     loop: true,
